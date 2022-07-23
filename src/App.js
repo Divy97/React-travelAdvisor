@@ -1,7 +1,7 @@
 import React from "react";
 
 //material ui
-import { CssBaseline, Grid } from "@mui/material";
+import { CssBaseline, Grid } from "@material-ui/core";
 
 //components
 import Header from "./components/Header/Header";
